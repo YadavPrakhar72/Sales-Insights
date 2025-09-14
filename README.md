@@ -34,7 +34,7 @@ The data was preprocessed, cleaned, and modeled in Power BI using measures and c
 
 ## 🛠️ Tools Used
 - Power BI (visualization, modeling, DAX)
-- Excel (initial data exploration and formatting)
+- SQL (initial data exploration and formatting)
 
 ## 📸 Screenshot
 ![Sales Insights Dashboard](./Sales%20Insights.jpg)
